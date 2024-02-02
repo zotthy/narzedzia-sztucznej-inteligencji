@@ -1,1 +1,1 @@
-# narz-dzia-sztucznej-inteligencji
+# narzedzia-sztucznej-inteligencji
